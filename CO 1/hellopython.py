@@ -1,0 +1,7 @@
+print("Python Programming")
+number=int(input("Enter a number"))
+numberfloat=float(input("Enter the number"))
+print(number)
+print(numberfloat)
+name=str(input("Enter the name"))
+print(name)
